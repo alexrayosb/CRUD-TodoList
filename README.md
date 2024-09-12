@@ -19,19 +19,16 @@ CRUD/
 ```
 
 ## Technologies Used:
-Rust (backend)
-Actix Web (web framework)
-SQLx (PostgreSQL ORM)
-PostgreSQL (database)
-React (frontend)
-Axios (for HTTP requests in React)
-Getting Started
-To get a local copy of the project up and running, follow these steps:
+- Rust (backend)
+- Actix Web (web framework)
+- SQLx (PostgreSQL ORM)
+- PostgreSQL (database)
+- React (frontend)
 
 ## Prerequisites:
-Rust
-PostgreSQL
-Node.js (for React frontend)
+- Rust
+- PostgreSQL
+- Node.js (for React frontend)
 
 ## Future Improvements:
-Deploy the app to a public server (e.g., Caddy, Heroku, Vercel, or DigitalOcean).
+- Deploy the app to a public server (e.g., Caddy, Heroku, Vercel, or DigitalOcean).
