@@ -1,0 +1,11 @@
+# Compiled Rust files
+/target/
+# Cargo lock file
+Cargo.lock
+# Backup files
+**/*.rs.bk
+# Local environment variables
+.env
+# IDE settings
+/.idea
+/.vscode
