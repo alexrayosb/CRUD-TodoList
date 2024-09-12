@@ -18,7 +18,7 @@ CRUD/
 └── README.md         # This readme file
 ```
 
-Technologies Used:
+## Technologies Used:
 Rust (backend)
 Actix Web (web framework)
 SQLx (PostgreSQL ORM)
@@ -28,10 +28,10 @@ Axios (for HTTP requests in React)
 Getting Started
 To get a local copy of the project up and running, follow these steps:
 
-Prerequisites:
+## Prerequisites:
 Rust
 PostgreSQL
 Node.js (for React frontend)
 
-Future Improvements:
+## Future Improvements:
 Deploy the app to a public server (e.g., Caddy, Heroku, Vercel, or DigitalOcean).
